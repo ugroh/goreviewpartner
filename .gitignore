@@ -2,3 +2,4 @@
 *.sgf
 *.rsgf
 translations/en.po
+.DS_Store
